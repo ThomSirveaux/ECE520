@@ -8,7 +8,7 @@ Date: 08/26/2024**
 2. VHDL
 3. Verilog
 
-./csun_eng_logo.png
+/csun_eng_logo.png
 
 ```vhdl
 

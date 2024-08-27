@@ -8,7 +8,9 @@ Date: 08/26/2024**
 2. VHDL
 3. Verilog
 
-/csun_eng_logo.png
+./img/csun_eng_logo.png
+
+[Peter Beal](https://github.com/ThomSirveaux)
 
 ```vhdl
 

@@ -8,7 +8,7 @@ Date: 08/26/2024**
 2. VHDL
 3. Verilog
 
-./img/csun_eng_logo.png
+![CSUN Engineering](./img/csun_eng_logo.png)
 
 [Peter Beal](https://github.com/ThomSirveaux)
 
@@ -43,4 +43,4 @@ begin
     count <= pre_count;
 end Behavioral;
 ```
-
+![GIT Status Screenshot](./img/beal_git_status.png)
